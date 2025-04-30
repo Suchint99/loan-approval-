@@ -1,0 +1,7 @@
+ApplicantIncome,CoapplicantIncome,LoanAmount,Dependents,Married,Loan_Status
+7000,0,200000,1,1,0
+8000,0,200000,1,1,0
+12000,0,50000,0,0,1
+10000,5000,60000,1,1,1
+17000,0,150000,2,1,0
+25000,15000,200000,1,1,1
